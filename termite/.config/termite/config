@@ -1,0 +1,13 @@
+[options]
+font = Hack 14
+browser = google-chrome-stable
+
+[colors]
+background = #282828
+foreground = #27fdf5
+
+miami_neon_blue	= #27fdf5
+miami_sky_blue = #a8f6f8
+miami_powder_blue = #d7fffe
+miami_pink = #f98dc9
+miami_magenta = #f765b8
