@@ -73,7 +73,7 @@ gaps outer 8
 assign [class="Firefox"] $ws1
 assign [class="google-chrome"] $ws1
 assign [class="Google-chrome"] $ws1
-assign [class="Atom"] $ws2
+assign [class="Code"] $ws2
 
 # Enable or Disable Floating
 for_window [class="Lxappearance"] floating enable
@@ -201,4 +201,4 @@ exec_always --no-startup-id feh --bg-fill $HOME/Pictures/full-metal-alchemist/ed
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec --no-startup-id compton -b
 exec --no-startup-id google-chrome-stable
-exec --no-startup-id atom
+exec --no-startup-id code
